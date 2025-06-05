@@ -1,2 +1,2 @@
 # GitLab4
-README shaun
+This is a happy version of GitLab4 
